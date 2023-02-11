@@ -1,4 +1,4 @@
-# `R` code: spatial illness-death model via INLA
+# Spatial illness-death model with multivariate Leroux random effects via INLA (`R` code)
 
 This is the `R` code associated to the paper:
 
